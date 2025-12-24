@@ -33,7 +33,7 @@ const ContactUs = () => {
               </h2>
               <h1 className="text-3xl md:text-4xl lg:text-5xl font-bold tracking-tight text-foreground mb-6">
                 Let&apos;s talk about your{" "}
-                <span className="text-primary">NeoPaay</span> experience.
+                <span className="text-primary">Digetal Wallet</span> experience.
               </h1>
               <p className="text-muted-foreground text-lg leading-relaxed">
                 Whether you’re an agent, merchant, or user, our dedicated team
