@@ -41,7 +41,7 @@ export default function DashboardLayout() {
             <div className="h-9 w-9 rounded-xl bg-gradient-to-tr from-primary to-primary/60 p-[1px]">
               <div className="h-full w-full rounded-xl bg-background flex items-center justify-center">
                 <span className="text-xs font-black text-primary italic">
-                  DW
+                  Digital Wallet
                 </span>
               </div>
             </div>
