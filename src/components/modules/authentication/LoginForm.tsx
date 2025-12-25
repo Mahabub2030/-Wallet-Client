@@ -43,13 +43,17 @@ export function LoginForm({
   });
 
   const demoUsers = [
-    { label: "ADMIN", email: "super@gmail.com", password: "12345678" },
+    { label: "ADMIN", email: "superadmin@gmail.com", password: "Admin@1234" },
     {
       label: "User",
-      email: "retebet851@nrlord.com",
+      email: "jobebof180@roratu.com",
       password: "Aa@20302030",
     },
-    { label: "Agent", email: "bavasam931@nrlord.com", password: "Aa@20302030" },
+    {
+      label: "Agent",
+      email: "mahabubalom72091@gmail.com",
+      password: "Ww@20232023",
+    },
   ];
 
   const handleSubmit = async (data: z.infer<typeof loginSchema>) => {
