@@ -7,7 +7,7 @@ import "./index.css";
 import { ThemeProvider } from "./providers/theme.provider.tsx";
 import { store } from "./redux/store.ts";
 import router from "./routes/routes.ts";
-// main.tsx has been edited
+
 createRoot(document.getElementById("root")!).render(
   <StrictMode>
     <ReduxProvider store={store}>
