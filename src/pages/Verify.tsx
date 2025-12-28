@@ -34,7 +34,7 @@ import { useForm } from "react-hook-form";
 import { useLocation, useNavigate } from "react-router";
 import { toast } from "sonner";
 import z from "zod";
-
+// some coodes are taken from chatgpt
 const FormSchema = z.object({
   pin: z.string().min(6, {
     message: "Your one-time password must be 6 characters.",
