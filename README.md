@@ -7,23 +7,24 @@
 ## Live Link
 
 ```
-https://client-6dl7gjbdl-mahabub2030s-projects.vercel.app
+https://wallet-client-one.vercel.app
 ```
 
 ## Default User Credentials
 
 ```
 Admin:
-  email: super@gmail.com,
-  password: 12345678
+  email:superadmin@gmail.com,
+  password: Admin@1234
+
 
 Agent:
- email: bavasam931@nrlord.com
- password: Aa@20302030
+ email:agent@gmail.com
+ password:1234579Ww@
 
  User:
- email: retebet851@nrlord.com
- password:Aa@20302030
+ email: mahabub9@gmail.com
+ password:1234579Ww@
 ```
 
 ## ✨ Features
@@ -177,4 +178,5 @@ Main dependencies: React, Redux, Axios, Tailwind CSS, Framer Motion, Zod, Shadcn
 - "vite": "^5.4.8"
 
 # MONEY-TANSFARS
+
 # -Wallet-Client
