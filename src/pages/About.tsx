@@ -1,9 +1,9 @@
 import AboutHero from "@/components/modules/about/HeroSection";
 // import StorySection from "@/components/modules/about/StorySection";
 import MissionSection from "@/components/modules/about/MissionSection";
-import { Helmet } from "react-helmet";
-import OurTeems from "@/components/modules/about/OurTeems";
 import OurStory from "@/components/modules/about/OurStory";
+import OurTeems from "@/components/modules/about/OurTeems";
+import { Helmet } from "react-helmet";
 
 const About = () => {
   return (
@@ -15,6 +15,7 @@ const About = () => {
       <AboutHero></AboutHero>
       {/* <StorySection></StorySection> */}
       <OurStory />
+      {/* this our story */}
       <MissionSection></MissionSection>
       {/* <OurTeem></OurTeem> */}
       <OurTeems />
