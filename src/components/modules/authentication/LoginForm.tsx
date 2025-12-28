@@ -46,13 +46,13 @@ export function LoginForm({
     { label: "ADMIN", email: "superadmin@gmail.com", password: "Admin@1234" },
     {
       label: "User",
-      email: "jobebof180@roratu.com",
-      password: "Aa@20302030",
+      email: "mahabub9@gmail.com",
+      password: "1234579Ww@",
     },
     {
       label: "Agent",
-      email: "mahabubalom72091@gmail.com",
-      password: "Ww@20232023",
+      email: "agent@gmail.com",
+      password: "1234579Ww@",
     },
   ];
 
